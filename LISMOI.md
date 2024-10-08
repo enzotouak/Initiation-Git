@@ -1,5 +1,6 @@
-# Initiation-Git
-le chêne un jour dit au roseau
+# Poésie :
+le chêne un jour dit au roseau :
+vous avez bien sujet d'accuser la Nature
 
-# Titre 2
+# Suite
 et le roseau lui répondit aussitôt
